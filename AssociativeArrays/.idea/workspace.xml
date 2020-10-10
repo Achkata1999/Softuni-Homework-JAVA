@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2991784-4fbb-4fea-b58b-27e91f8dd071" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fjk4VdxteVaiSTkiS3gmmhvZEG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.LegendaryFarming">
+    <configuration name="AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMinerTask" />
+      <module name="AssociativeArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LegendaryFarming" />
+      <module name="AssociativeArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LegendaryFarming" />
+        <item itemvalue="Application.AMinerTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2991784-4fbb-4fea-b58b-27e91f8dd071" name="Default Changelist" comment="" />
+      <created>1596738697220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596738697220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1596746561818">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596746561818" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1596754949969">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596754949969" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1596754949968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596754949968" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1596754949968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596754949968" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1596754949968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596754949968" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1596754949970">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596754949970" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1596754949969">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1596754949969" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1596754949969">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1596754949969" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1596754949970">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1596754949970" />
+    <state x="209" y="39" key="new project wizard" timestamp="1596883083646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1596883083646" />
+    <state x="475" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1596744512736">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="475" y="37" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1596744512736" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LegendaryFarming.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5fa727e-4d82-4988-9849-36225197901b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YlwcwjgX716UGJUj1erB3nTdpJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CleverLily">
+    <configuration name="ASumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASumNumbers" />
+      <module name="Cikul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CleverLily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CleverLily" />
+      <module name="Cikul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number" />
+      <module name="Cikul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddEvenSum" />
+      <module name="Cikul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumber​" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumNumber​" />
+      <module name="Cikul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CleverLily" />
+        <item itemvalue="Application.OddEvenSum" />
+        <item itemvalue="Application.Number" />
+        <item itemvalue="Application.ASumNumbers" />
+        <item itemvalue="Application.SumNumber​" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fa727e-4d82-4988-9849-36225197901b" name="Default Changelist" comment="" />
+      <created>1583530571825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583530571825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1583621208395">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583621208395" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1583621208395">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583621208395" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1583621208395">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583621208395" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1583621208395">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583621208395" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1583621208396">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583621208396" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1583621208396">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1583621208396" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1583621208395">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1583621208395" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1583621208396">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1583621208396" />
+    <state x="209" y="39" key="new project wizard" timestamp="1583621204844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1583621204844" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ASumNumbers.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
